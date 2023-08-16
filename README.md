@@ -8,6 +8,11 @@ seo:
   name: Just the Class
 ---
 
+<!--
+Notes: 
+Mssing a page.html & a home.html file in the _layout
+-->
+
 # Just the Class
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
