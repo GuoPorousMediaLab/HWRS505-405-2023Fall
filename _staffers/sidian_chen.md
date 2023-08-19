@@ -1,9 +1,11 @@
 ---
 name: Sidian Chen
-role: Teaching Assistant
+role: Instructor
 email: sidianchen@arizona.edu
 website: https://kevinl.info
 photo: sidian_chen.jpg
+meta:
+  Office Hours: Tuesday 1-2 pm, Harshbarger 318C
 ---
 
-I like teaching Computer Science!
+[Schedule an appointment](#){: .btn .btn-outline }
