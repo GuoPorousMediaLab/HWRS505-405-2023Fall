@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: HWRS505-405-2023Fall
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: HWRS505-405-2023Fall
 ---
 
 <!--

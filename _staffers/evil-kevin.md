@@ -1,9 +1,9 @@
 ---
-name: Evil Kevin
+name: Sidian Chen
 role: Teaching Assistant
-email: me@example.com
+email: sidianchen@arizona.edu
 website: https://kevinl.info
-photo: kevin.jpg
+photo: sidian_chen.jpg
 ---
 
 I like teaching Computer Science!

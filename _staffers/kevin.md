@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
+name: Bo Guo
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: boguo@arizona.edu
+website: https://guolab.arizona.edu/
+photo: bo_guo.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Tuesday 1-2 pm, Harshbarger 318C
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
