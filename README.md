@@ -15,11 +15,15 @@ Mssing a page.html & a home.html file in the _layout
 
 <h2>Vadoes Zone Hydrology</h2>
 
-<h3>Instructors:</h3> [Bo Guo](https://guolab.arizona.edu/) and [Sidian Chen](https://sidianchen.github.io/)
+<h3>Instructors:</h3> 
+
+[Bo Guo](https://guolab.arizona.edu/) and [Sidian Chen](https://sidianchen.github.io/)
 
 <h3>Time:</h3> Tu & Th 11:00 - 12:15 pm
 
-<h3>Location:</h3> [Modern Languages Bldg](https://www.google.com/maps/place/AZPM/@32.2321425,-110.9499052,18.71z/data=!4m6!3m5!1s0x86d671a9fb1d3e09:0x61757677b1166bb8!8m2!3d32.2323371!4d-110.950108!16s%2Fg%2F1tddb8wg?entry=ttu), Rm 213
+<h3>Location:</h3>
+
+[Modern Languages Bldg](https://www.google.com/maps/place/AZPM/@32.2321425,-110.9499052,18.71z/data=!4m6!3m5!1s0x86d671a9fb1d3e09:0x61757677b1166bb8!8m2!3d32.2323371!4d-110.950108!16s%2Fg%2F1tddb8wg?entry=ttu), Rm 213
 
 <h3>Course Description:</h3> The course focuses on the physical concepts underlying water flow and solute transport in variably saturated media. We will approach these concepts from a fundamental perspective of multiphase flow and transport in porous media to help students to build a strong physical intuition. This will be complemented by discussion of measurement methods and analysis of the relevant processes. New cutting-edge topics on the fate and transport of emerging contaminants (e.g., PFAS) in the vadose zone will also be introduced.
 
