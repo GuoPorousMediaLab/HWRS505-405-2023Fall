@@ -13,32 +13,56 @@ Notes:
 Mssing a page.html & a home.html file in the _layout
 -->
 
-# Just the Class
+<h2>Vadoes Zone Hydrology</h2>
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+<h3>Instructors:</h3> [Bo Guo](https://guolab.arizona.edu/) and [Sidian Chen](https://sidianchen.github.io/)
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+<h3>Time:</h3> Tu & Th 11:00 - 12:15 pm
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+<h3>Location:</h3> [Modern Languages Bldg](https://www.google.com/maps/place/AZPM/@32.2321425,-110.9499052,18.71z/data=!4m6!3m5!1s0x86d671a9fb1d3e09:0x61757677b1166bb8!8m2!3d32.2323371!4d-110.950108!16s%2Fg%2F1tddb8wg?entry=ttu), Rm 213
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+<h3>Course Description:</h3> The course focuses on the physical concepts underlying water flow and solute transport in variably saturated media. We will approach these concepts from a fundamental perspective of multiphase flow and transport in porous media to help students to build a strong physical intuition. This will be complemented by discussion of measurement methods and analysis of the relevant processes. New cutting-edge topics on the fate and transport of emerging contaminants (e.g., PFAS) in the vadose zone will also be introduced.
 
-## Getting Started
+<h3>Prerequisities:</h3> HWRS 518 or with permission of Dr. Bo Guo.
 
-Getting started with Just the Class is simple.
+<h3>Instructor Contact:</h3>
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+>**Bo Guo**
+>
+>Office: [John W.Harshbarger Bldg](https://www.google.com/maps/place/John+W.Harshbarger+Bldg,+Tucson,+AZ+85719/data=!4m2!3m1!1s0x86d67106e2b5fe29:0x5acbb11fa472c0af?sa=X&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgSEAA&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgTEAI), Rm 318C
+>
+>Phone: <a href="tel:+15206269971">(+1) 520-626-9971</a>
+>
+>E-mail:  <a href="mailto:boguo@arizona.edu">boguo@arizona.edu</a>
 
-### Local development environment
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+>**Sidian Chen**
+>
+>Office: [John W.Harshbarger Bldg](https://www.google.com/maps/place/John+W.Harshbarger+Bldg,+Tucson,+AZ+85719/data=!4m2!3m1!1s0x86d67106e2b5fe29:0x5acbb11fa472c0af?sa=X&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgSEAA&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgTEAI), Rm 316C
+>
+>Phone: <a href="tel:+15203699240">(+1) 520-369-9240</a>
+>
+>E-mail:  <a href="mailto:sidianchen@arizona.edu">sidianchen@arizona.edu</a>
+
+<h3>Course Grade:</h3>
+
+> **Evalution and Grading for HWRS 405 (Undergraduate)**
+- 55% Homework Problem Sets
+- 40% Exams (20% each)
+- 5% Class Participation
+
+> **Evalution and Grading for HWRS 505 (Graduate)**
+- 35% Homework Problem Sets
+- 40% Exams (20% each)
+- 20% Final Project (Final Report and Class Presentation)
+- 5% Class Participation
+
+
+> **Grading Scheme:**
+- A: 90-100
+- B: 80-89.9
+- C: 70-79.9
+- D: 60-69.9
+- E: <60

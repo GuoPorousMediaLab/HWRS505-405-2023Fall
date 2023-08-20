@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+title: HWRS 405/505
+tagline: Course websites
+description: A modern, highly customizable, responsive course websites for HWRS 405/505 Vadoes zone hydrology at the University of Arizona
+author: Bo Guo and Sidian Chen
 # baseurl: '/GuoPorousMediaLab/HWRS505-405-2023Fall' # the subpath of your site, e.g. /blog
 # url: 'https://HWRS505-405-2023Fall.com' # the base hostname & protocol for your site, e.g. http://example.com
 url: 'https://guoporousmedialab.github.io/HWRS505-405-2023Fall/'  # Edit by SC
@@ -29,10 +29,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+# Bo Guo:
+#   - 'https://guolab.arizona.edu/'
+# Sidian Chen:
+#   - 'https://sidianchen.github.io/'
+  HWRS 405/505 on GitHub:
+    - 'https://github.com/GuoPorousMediaLab/HWRS505-405-2023Fall'
 footer_content:
 
 # Collections for website data
