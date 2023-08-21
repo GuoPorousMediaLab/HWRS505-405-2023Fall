@@ -1,8 +1,8 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2019-04-01
+date: 2023-08-21
 ---
 
-Hello world!
+Welcome to the class!
 {: .fs-5 }

@@ -8,4 +8,4 @@ meta:
   Office Hours: Tuesday 1-2 pm, Harshbarger 318C
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+<!-- [Schedule an appointment](#){: .btn .btn-outline } -->

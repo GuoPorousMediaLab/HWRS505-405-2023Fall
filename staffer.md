@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Staff
+title: "Office Hours / Instructors"
+nav_order: 6
 description: A listing of all the course staff members.
 ---
 
