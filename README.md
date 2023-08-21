@@ -13,7 +13,7 @@ Notes:
 Mssing a page.html & a home.html file in the _layout
 -->
 
-<h2>Vadoes Zone Hydrology</h2>
+<h2>Vadose Zone Hydrology</h2>
 
 
 <h3>1. Time:</h3> 
