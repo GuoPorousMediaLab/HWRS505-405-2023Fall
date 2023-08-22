@@ -13,14 +13,14 @@ Notes:
 Mssing a page.html & a home.html file in the _layout
 -->
 
-<h2>Vadose Zone Hydrology</h2>
+<h2>Vadose Zone Hydrology (University of Arizona) </h2>
 
 
-<h3>1. Time:</h3> 
+<h3>1. Lecture time:</h3> 
 
 > [Tu & Th 11:00 - 12:15 pm](assets/calendar/calendar.ics)
 
-<h3>2. Location:</h3>
+<h3>2. Lecture location:</h3>
 
 > [Modern Languages Bldg](https://www.google.com/maps/place/AZPM/@32.2321425,-110.9499052,18.71z/data=!4m6!3m5!1s0x86d671a9fb1d3e09:0x61757677b1166bb8!8m2!3d32.2323371!4d-110.950108!16s%2Fg%2F1tddb8wg?entry=ttu), Rm 213
 
@@ -51,7 +51,7 @@ Mssing a page.html & a home.html file in the _layout
 <h3>5. Prerequisities and Equipment/Software Requirements:</h3> 
 
 > - HWRS 518 or with permission of Dr. Bo Guo.
-> - For this class you will need access to a computer to download and run [MS Excel spreadsheets](https://www.remote-learning.arizona.edu/install-office-365-your-computer) and the software [HYDRUS-1D](https://www.pc-progress.com/en/Default.aspx?Downloads).
+> - You will need access to a computer to run [Jupyter Notebooks](https://jupyter.org/), [MS Excel spreadsheets](https://www.remote-learning.arizona.edu/install-office-365-your-computer), the software [HYDRUS-1D](https://www.pc-progress.com/en/Default.aspx?Downloads).
 
 
 <h3>6. Assignments and Exams:</h3>
