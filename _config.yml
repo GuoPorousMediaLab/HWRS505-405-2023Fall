@@ -15,11 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: HWRS 405/505
 tagline: Course websites
-description: A modern, highly customizable, responsive course websites for HWRS 405/505 Vadoes zone hydrology at the University of Arizona
+description: A course website for HWRS 405/505 Vadoes zone hydrology at the University of Arizona
 author: Bo Guo and Sidian Chen
 # baseurl: '/GuoPorousMediaLab/HWRS505-405-2023Fall' # the subpath of your site, e.g. /blog
-# url: 'https://HWRS505-405-2023Fall.com' # the base hostname & protocol for your site, e.g. http://example.com
-url: 'https://guoporousmedialab.github.io/HWRS505-405-2023Fall/'  # Edit by SC
+url: 'https://github.com/GuoPorousMediaLab/HWRS505-405-2023Fall'  
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
