@@ -56,9 +56,9 @@ Mssing a page.html & a home.html file in the _layout
 
 <h3>6. Assignments and Exams:</h3>
 
-> **Hmoework Problem Sets**
+> **Homework Problem Sets**
 > 
-> Five problem sets will be assigned throughout the semester, due in one or two weeks after release. When submitting on D2L, convert your file to PDF and name it as *Last_name_HW1*. For example, *Guo_HW1.pdf*. Whether you type or handwrite, the text and figures need to be readable to an average human being. Nonreadable homework will be returned without grading. See **Schedule** for the specific dates.
+> Five problem sets will be assigned throughout the semester, due in one or two weeks after release. When submitting on D2L, convert your file to PDF and name it as *Last_name_HW1*. For example, *Guo_HW1.pdf*. Whether you type or handwrite, the text and figures need to be readable to an average human being. Nonreadable homework will be returned without grading. See [Schedule](https://guoporousmedialab.github.io/HWRS505-405-2023Fall/schedule/) for the specific dates.
 > 
 > **Exams**
 > 
@@ -71,7 +71,10 @@ Mssing a page.html & a home.html file in the _layout
 > - (2) choose a research problem in your own filed of interest and apply the concepts and research tools covered in class to systematically tackle the problem.
 > 
 > For either option, you will need to summarize your key findings in a formal report and deliver a presentation in class.
-
+> 
+> **Art of Porous Media Flow**
+> 
+> As we will see in this class, the movement of fluids especially that in porous structures is full of beauty and you see it almost every day. During the semester, I encourage all of you to pay attention to any porous media flow phenomena in your day-to-day life. At the end of the semester, I would like all of you to submit a piece of artwork illustrating at least one interesting aspects of porous media flow. It can be a photo or short video you take or other forms of artwork of your choice. Whatever you decide to submit, make sure that it is entertaining!
 
 <h3>7. Course Grade:</h3>
 
