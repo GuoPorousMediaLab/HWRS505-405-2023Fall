@@ -88,7 +88,9 @@ Mssing a page.html & a home.html file in the _layout
 > - 40% Exams (20% each)
 > - 20% Final Project (Final Report and Class Presentation)
 > - 5% Class Participation
-> 
+>
+> **Bonus points for all students**
+> - +5% Art of Porous Media Flow Submission
 > **Grading Scheme:**
 > - A: 90-100
 > - B: 80-89.9
