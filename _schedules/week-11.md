@@ -3,10 +3,10 @@ title: Week 11
 ---
 
 Oct 31
-: [Comments on midterm & Measurement methods](#)
-  : [Lecture note #15](#)
+: [Comments on midterm & Measurement methods](https://guoporousmedialab.github.io/HWRS505-405-2023Fall/lecture/)
+  : [Lecture note #15](https://d2l.arizona.edu/d2l/le/content/1348156/Home)
 
 Nov 02
-: [Visit the soil physics lab of Dr. Markus Tuller (TBD)](#)
+: [Visit the soil physics lab of Dr. Markus Tuller (TBD)](https://guoporousmedialab.github.io/HWRS505-405-2023Fall/lecture/)
   : [](#)
 : **Due**{: .label .label-purple}[**HW #4**](#)
