@@ -10,7 +10,7 @@ seo:
 
 <!--
 Notes: 
-Mssing a page.html & a home.html file in the _layout
+Missing a page.html & a home.html file in the _layout
 -->
 
 <h2>Vadose Zone Hydrology (University of Arizona) </h2>
@@ -46,9 +46,9 @@ Mssing a page.html & a home.html file in the _layout
 
 <h3>4. Course Description:</h3> 
 
-> The course focuses on the physical concepts underlying water flow and solute transport in variably saturated media. We will approach these concepts from a fundamental perspective of multiphase flow and transport in porous media to help students to build a strong physical intuition. This will be complemented by discussion of measurement methods and analysis of the relevant processes. New cutting-edge topics on the fate and transport of emerging contaminants (e.g., PFAS) in the vadose zone will also be introduced.
+> The course focuses on the physical concepts underlying water flow and solute transport in variably saturated media. We will approach these concepts from a fundamental perspective of multiphase flow and transport in porous media to help students build a strong physical intuition. This will be complemented by a discussion of measurement methods and analysis of the relevant processes. New cutting-edge topics on the fate and transport of emerging contaminants (e.g., PFAS) in the vadose zone will also be introduced.
 
-<h3>5. Prerequisities and Equipment/Software Requirements:</h3> 
+<h3>5. Prerequisites and Equipment/Software Requirements:</h3> 
 
 > - HWRS 518 or with permission of Dr. Bo Guo.
 > - You will need access to a computer to run [Jupyter Notebooks](https://jupyter.org/), [MS Excel spreadsheets](https://www.remote-learning.arizona.edu/install-office-365-your-computer), the software [HYDRUS-1D](https://www.pc-progress.com/en/Default.aspx?Downloads).
@@ -67,28 +67,31 @@ Mssing a page.html & a home.html file in the _layout
 > **Final Project:** *Only required for students who take the graduate version of the class HWRS 505.*
 > 
 > Students will have two options for the final project: 
-> - (1) choose a research topic of interest related to processes in the vadose zone, read 3 to 5 relevant papers and provide a critical review of their research questions, methodologies, results, and implications.
-> - (2) choose a research problem in your own filed of interest and apply the concepts and research tools covered in class to systematically tackle the problem.
+> - (1) Choose a research topic of interest related to processes in the vadose zone, read 3 to 5 relevant papers, and provide a critical review of their research questions, methodologies, results, and implications.
+> - (2) Choose a research problem in your own field of interest and apply the concepts and research tools covered in class to systematically tackle the problem.
 > 
 > For either option, you will need to summarize your key findings in a formal report and deliver a presentation in class.
 > 
 > **Art of Porous Media Flow**
 > 
-> As we will see in this class, the movement of fluids especially that in porous structures is full of beauty and you see it almost every day. During the semester, I encourage all of you to pay attention to any porous media flow phenomena in your day-to-day life. At the end of the semester, I would like all of you to submit a piece of artwork illustrating at least one interesting aspects of porous media flow. It can be a photo or short video you take or other forms of artwork of your choice. Whatever you decide to submit, make sure that it is entertaining!
+> As we will see in this class, the movement of fluids especially those in porous structures is full of beauty and you see it almost every day. During the semester, I encourage all of you to pay attention to any porous media flow phenomena in your day-to-day life. At the end of the semester, I would like all of you to submit a piece of artwork illustrating at least one interesting aspect of porous media flow. It can be a photo or short video you take or other forms of artwork of your choice. Whatever you decide to submit, make sure that it is entertaining!
 
 <h3>7. Course Grade:</h3>
 
-> **Evalution and Grading for HWRS 405 (Undergraduate)**
+> **Evaluation and Grading for HWRS 405 (Undergraduate)**
 > - 55% Homework Problem Sets
 > - 40% Exams (20% each)
 > - 5% Class Participation
 > 
-> **Evalution and Grading for HWRS 505 (Graduate)**
+> **Evaluation and Grading for HWRS 505 (Graduate)**
 > - 35% Homework Problem Sets
 > - 40% Exams (20% each)
 > - 20% Final Project (Final Report and Class Presentation)
 > - 5% Class Participation
-> 
+>
+> **Bonus Grade (Undergraduate & Graduate)**
+> - +5% Art of Porous Media Flow Submission
+>   
 > **Grading Scheme:**
 > - A: 90-100
 > - B: 80-89.9
