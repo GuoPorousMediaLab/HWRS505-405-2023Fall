@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 title: Home
@@ -7,7 +8,7 @@ seo:
   type: Course
   name: HWRS505-405-2023Fall
 ---
-
+-->
 <!--
 Notes: 
 Missing a page.html & a home.html file in the _layout
