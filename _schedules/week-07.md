@@ -7,6 +7,6 @@ Oct 03
   : [J&H Ch 3](https://d2l.arizona.edu/d2l/le/content/1348156/Home)
 
 Oct 05
-: [Transient unsaturated flow (b)](https://guoporousmedialab.github.io/HWRS505-405-2023Fall/lecture/)
+: *No class (Remembering Prof. Tom Meixner*)
   : [](#)
 
