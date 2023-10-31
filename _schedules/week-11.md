@@ -7,6 +7,6 @@ Oct 31
   : [Lecture note #15](https://d2l.arizona.edu/d2l/le/content/1348156/Home)
 
 Nov 02
-: [Visit the soil physics lab of Dr. Markus Tuller (TBD)](https://guoporousmedialab.github.io/HWRS505-405-2023Fall/lecture/)
+: [Visit the lab of Dr. Mark Brusseau ](https://guoporousmedialab.github.io/HWRS505-405-2023Fall/lecture/)
   : [](#)
 : **Due**{: .label .label-purple}[**HW #4**](#)
