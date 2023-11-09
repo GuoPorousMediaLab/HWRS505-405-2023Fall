@@ -1,5 +1,5 @@
 ---
-title: "Lecture #18: Mid-term review"
+title: "Lecture #19: Measurement methods"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tu, Oct 31, 11:00 am – 12:15 pm (Bo Guo)
