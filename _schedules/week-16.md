@@ -12,4 +12,4 @@ Dec 07
 
 Dec 08
 : [Final Exam](#)
-  : [Time & Location (TBD)](#)
+  : [Time & Location (2-4 pm in Harshbarger 203)](#)
